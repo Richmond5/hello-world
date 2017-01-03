@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+ahoj toto je mová verzia hello world cha cvha vha 
